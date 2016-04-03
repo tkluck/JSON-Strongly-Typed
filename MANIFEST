@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/JSON-Strongly-Typed.t
+lib/JSON/Strongly/Typed.pm
